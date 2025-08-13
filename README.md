@@ -16,3 +16,6 @@ MIT (or your preferred license)
 ## 🤝 Contributing
 Coming soon — we welcome collaboration from researchers, developers, and privacy advocates.
 
+> ⚡️ **Domain Opportunity**  
+> NeuroZKP.com is a premium domain available for acquisition. Ideal for founders, researchers, or companies building in zero-knowledge, neurotech, or decentralized identity.  
+> Serious inquiries via [neurozkp.com](https://www.neurozkp.com).
